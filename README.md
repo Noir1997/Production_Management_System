@@ -1,0 +1,2 @@
+# Production_Management_System
+僕が仕事で作った生産管理システムです。注文が入って納期と数量を出すシステムです。
